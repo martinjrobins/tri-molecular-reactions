@@ -1,0 +1,6 @@
+[submodule "Aboria"]
+	path = Aboria
+	url = git@github.com:aboria/Aboria.git
+[submodule "trase"]
+	path = trase
+	url = git@github.com:trase-cpp/trase.git
